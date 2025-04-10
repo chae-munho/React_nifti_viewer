@@ -1,0 +1,13 @@
+67890
+Female
+08-22-1982
+Vein
+No
+No
+Severe
+Poor
+Brain parenchyma
+Yes
+No
+Irregular
+NF2

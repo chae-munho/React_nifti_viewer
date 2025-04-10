@@ -1,0 +1,13 @@
+12345
+Male
+04-15-1975
+Artery
+Yes (CN 7)
+Yes
+Moderate
+Well
+Dura
+No
+Yes
+Single round
+NF1

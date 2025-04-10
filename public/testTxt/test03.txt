@@ -1,0 +1,13 @@
+54321
+Male
+01-30-1968
+Mixed (Artery and Vein)
+Yes (CN 5, CN 8)
+Yes
+Mild
+Moderate
+Ventricular wall
+No
+Yes
+Multi-lobulated
+NF3
