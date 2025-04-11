@@ -8,6 +8,8 @@ In the project directory, you can run:
 
 ### `yarn install`
 
+yarn install 명령어는 프로젝트에서 필요한 모든 패키지(의존성)을 설치하는 명령어입니다. 보통 package.json 파일을 기반으로 작동합니다.
+
 ### `yarn start`
 
 Runs the app in the development mode.\
